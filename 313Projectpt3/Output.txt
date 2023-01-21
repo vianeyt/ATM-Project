@@ -1,0 +1,35 @@
+First name:Vianey 
+Last name:Tlapechco 
+Account Number: 1717 
+Balance: $2000.0
+ 
+First name:Joshua 
+Last name:Ng 
+Account Number: 1313 
+Balance: $2000.0
+ 
+First name:Victor 
+Last name:Ariza 
+Account Number: 1412 
+Balance: $2122.0
+ 
+First name:Kaneki 
+Last name:Ken 
+Account Number: 1919 
+Balance: $20000.0
+ 
+First name:Ingrid 
+Last name:Flores 
+Account Number: 1222 
+Balance: $10000.0
+ 
+First name:Judy 
+Last name:lin 
+Account Number: 1212 
+Balance: $3000.0
+ 
+First name:Jessica 
+Last name:lum 
+Account Number: 1232 
+Balance: $2000.0
+ 
